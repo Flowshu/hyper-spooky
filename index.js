@@ -6,13 +6,21 @@ const borderColor = '#121234';
 const cursorColor = '#FFA42E';
 
 const black = "#333333";
-const red = "#FF1430"; 
-const green = "#2EFF5B"; 
-const yellow = "#FFCA49";
-const blue = "#4763FF";
-const magenta = "#F314FF";
-const cyan = "#4DFFC1";
+const red = "#FF1D00"; 
+const green = "#00FF80"; 
+const yellow = "#FFA800";
+const blue = "#0066FF";
+const magenta = "#A900FF";
+const cyan = "#0DEAFF";
 const white = "#FFFFFF";
+const lightBlack = "#555555";
+const lightRed = "#FF5640";
+const lightGreen = "#4DFFA6";
+const lightYellow = "#FFBF40";
+const lightBlue = "#408CFF";
+const lightMagenta = "#BF40FF";
+const lightCyan = "#40EFFF";
+const lightWhite = "#E6E8FF";
 
 const colors = {
   black: black,
@@ -23,14 +31,14 @@ const colors = {
   magenta: magenta,
   cyan: cyan,
   white: white,
-  lightBlack: black,
-  lightRed: red,
-  lightGreen: green,
-  lightYellow: yellow,
-  lightBlue: blue,
-  lightMagenta: magenta,
-  lightCyan: cyan,
-  lightWhite: white,
+  lightBlack: lightBlack,
+  lightRed: lightRed,
+  lightGreen: lightGreen,
+  lightYellow: lightYellow,
+  lightBlue: lightBlue,
+  lightMagenta: lightMagenta,
+  lightCyan: lightCyan,
+  lightWhite: lightWhite,
 };
 
 exports.decorateConfig = (config) => {
