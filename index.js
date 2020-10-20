@@ -5,14 +5,13 @@ const foregroundColor = '#FFA42E';
 const borderColor = '#121234';
 const cursorColor = '#FFA42E';
 
-// blue and cyan swapped
 const black = "#333333";
 const red = "#FF1430"; 
 const green = "#2EFF5B"; 
 const yellow = "#FFCA49";
-const blue = "#4DFFC1";
+const blue = "#4763FF";
 const magenta = "#F314FF";
-const cyan = "#4763FF";
+const cyan = "#4DFFC1";
 const white = "#FFFFFF";
 
 const colors = {
